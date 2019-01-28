@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Discover Rajasthan</string>
+
+    <!-- Customize Name of the Categories here -->
+    <string name="aboutFragment">About</string>
+    <string name="discoverFragment">Discover</string>
+    <string name="fairsAndFestivalFragment">Fairs And Festivals</string>
+    <string name="palacesFragment">Forts and Palaces</string>
+
+    <string name="aboutUs">About Us</string>
+    <string name="aboutUsDescription">Rajasthan, the Land of Kings is synonymous to heroism, royalty and honour. Historic tales of battles fought and romance of the riches adorn the walls of the state. Established in the era marked with wartime ballads yet living in the modern period, this beautiful region is a travellers\' destination. Those looking out for the remnants of the past should not pass up a trip to Rajasthan. For wanderers interested in adventures at the various landscapes should definitely get a glimpse of this venturesome state. And for the ones who plan to have a quiet sojourn gazing at the beauty of the golden sand dunes, Rajasthan tops your list. Come, explore the miscellany of the old and the new in Rajasthan, a glittering jewel of India.</string>
+
+    <string name="artsAndIndustiresName">Arts and Industries</string>
+    <string name="artsAndIndustriesDescription">When one speaks of rich culture in India, Rajasthan is what comes to our minds. Proving it true for several years now, Rajasthan depicts each nuance of its authentic civilization in its artwork. Stone, clay, leather, wool, wood, lac, glass, brass, silver, gold and textiles. You name it and the Rajasthani craft industry has it. The industry not only provides mass employment but is also a way of sustaining years of family businesses started centuries ago.</string>
+
+    <string name="rhythmAndResoanceName">Rhythm and Resonance</string>
+    <string name="rhythmAndResonanceDescription">Born and cultivated in the erstwhile royal courts of Rajasthan, the state is known to be the birthplace of various music and art forms. The site of dancers adorned in colourful attires moving to the melodious sounds of the traditional string instruments perfectly complements the backdrop of the golden sands and the crimson sky of the Thar Desert. Rajasthan is where the ancestral folklore stories of the royals come alive. Rajasthan\'s rhythm and resonance in its rustic form truly reflects the glory of the state, the religious significance of every incident and upholds the courage and bravery of the Rajputanas.</string>
+
+    <string name="theArchitectureName">The Architecture</string>
+    <string name="theArchitectureDescription">Every city in Rajasthan is marked with a colour and each of these colourful regions are bordered by amazing architectural structure. May it be the pink hues of Jaipur, royal blues of Jodhpur or the golden glow of Jaisalmer, the framework of every city is adorned with ancient architecture. The state witnessed prolonged rule of the Mughals and Hindus. Thus explaining the intricate and significant carvings. The forts, temples, palaces, havelis and stepwells all speak of the Rajputana culture. Rajasthan is nothing but a visual treat to travellers.</string>
+
+    <string name="thePeopleName">The People</string>
+    <string name="thePeopleDescription">It is believed that the dialect, cuisine, water and turban in Rajasthan changes every 12 miles. Marwari in western Rajasthan, Jaipuri or Dhundhari in the east and southeast, Mewati in Alwar, Braj Bhasa in Bharatpur, Mewari in Udaipur and the list goes on. Thus, explaining the varied cultures and creeds found in this independent yet steadily progressing state. Come modern day urbanisation, the people in Rajasthan have still held on their roots out of choice. Their hospitality and simplistic behaviour is what you\'re most likely to lose your heart to in Rajasthan.</string>
+
+    <string name="theFoodName">The Food</string>
+    <string name="theFoodDescription">There is never an end to lip smacking finger licking food in Rajasthan. The delicacies reflect the Rajputana culture in the purest forms. Just like the dialect, the cuisine in Rajasthan also differs every few miles. However, the most renowned dishes still are the Dal-bati-churma, lal and safed maans, soyeta and lasun-ki-chutney that accomplish at savouring your palate. In the earlier days, due to the war situations and lack of vegetation in Rajasthan, womenfolk would prepare dishes that could be preserved over a long period of time. But considering the modernisation in the country, fruits and vegetables from all over the world are easily available in the state. One can also find international food outlets in the major cities.</string>
+
+    <string name="alwarName">Alwar</string>
+    <string name="alwarDescription">The City Of Rajputs</string>
+
+    <string name="ajmerName">Ajmer</string>
+    <string name="ajmerDescription">Soniji Ki Nasiyan</string>
+
+    <string name="chittorgarhFortName">Chittorgarh Fort</string>
+    <string name="chittorgarhFortDescription">Fitting Symbol Of Raput Spirit</string>
+
+    <string name="jaipurName">Jaipur</string>
+    <string name="jaipurDescription">The Pink City</string>
+
+    <string name="ranthamboreName">Ranthambore</string>
+    <string name="ranthamboreDescription">The Best Place To Catch The Elusive Tiger</string>
+
+    <string name="hawaMahalName">Hawa Mahal</string>
+    <string name="hawaMahalDescription">Jaipur\'s Magnificent Iconic Landmark</string>
+
+    <string name="birlaTempleName">Birla Temple</string>
+    <string name="birlaTempleDescription">A True Work Of Art</string>
+
+    <string name="lakePicholaName">Lake Pichola</string>
+    <string name="lakePicholaDescription">Picturesque Freshwater Lake Of Udaipur</string>
+
+    <string name="gangaurFairName">Gangaur Fair</string>
+    <string name="gangaurFairDate">30 Mar - 31 Mar</string>
+    <string name="gangaurFairDescription">The Gangaur Festival is celebrated in the months of March and April every year. Gan indicates Lord Shiva and Gauri is the divine consort of the Lord. Hence, the festival of Gangaur celebrates the divine bliss of Goddess Parvati – the other name of Gauri. Women have a special role to play in the Gangaur festival. Celebrated for 18 whole days, the Gangaur festival is a long, colourful procession. Girls wake up early, bathe, dress up in new clothes, adorn their palms with mehendi and participate in the procession which starts from City Palace. Dance performances are also followed in this procession.</string>
+
+    <string name="puskharFairName">Puskhar Fair</string>
+    <string name="puskharFairDate">8 Nov - 14 Nov</string>
+    <string name="puskharFairDescription">The Pushkar Fair (Pushkar Camel Fair) or Pushkar Mela, as it is locally known as, is an annual week long camel and livestock fair held in the town of Pushkar between the months of October and November. It is one of the world\'s largest camel fairs. Apart from the buying and selling of livestock, it has become an important tourist attraction. Competitions such as the \‘matka phod\’, \‘longest moustache\’ and \‘bridal competition\’ are the main draws for this fair which attracts thousands of tourists. In recent years, the fair has also included an exhibition cricket match between the local Pushkar Club and a team of foreign tourists.</string>
+
+    <string name="udaipurWorldMusicFestivalName">Udaipur World Music Festival</string>
+    <string name="udaipurWorldMusicFestivalDate">10 Feb - 12 Feb</string>
+    <string name="udaipurWorldMusicFestivalDescription">The City of Lakes sings a different tune come February. Udaipur plays host to the second edition of the Udaipur World Music Festival. Organized by SEHER, this festival brings together global artists and ensembles from over 20 countries including Iran, Spain, Egypt, Senegal, Macedonia, France, Portugal, Italy and India, amongst other nations. The event is designed to cater to the music sensibilities of people across different ages and from all walks of life. An absolute once-in-a-lifetime experience, this one is a sheer treat for lovers of good music.</string>
+
+    <string name="desertFestivalName">Desert Festival</string>
+    <string name="desertFestivalDate">8 Feb - 10 Feb</string>
+    <string name="desertFestivalDescription">Once a year, the empty sands around Jaisalmer come alive with a mesmerising performance on the sand dunes in the form of the Desert Festival. The festival, organised by the Department of Tourism around January-February, goes on for three whole days and lets you enjoy the rich and colourful Rajasthani folk culture. Rajasthani men and tall, beautiful women dressed in their best and brightest costumes dance and sing ballads of valour, romance and tragedy, while traditional musicians attempt to outdo each other to showcase their musical superiority. The high points of the festival are puppeteers, acrobats, camel tattoo shows, camel races, camel polo, traditional processions, camel mounted bands, folk dances, etc.</string>
+
+    <string name="kiteFestivalName">Kite Festival</string>
+    <string name="kiteFestivalDate">14 Jan</string>
+    <string name="kiteFestivalDEscription">The Kite Festival is a bright celebration unique to Rajasthan. This festival is a wonderful spectacle as kites take to the sky all across the state. While one can enjoy colourful kites in a variety of shapes and sizes, the celebration looks truly spectacular in the evening, when fireworks alongside kites with lights in them, brighten the city\’s skyline. Celebrated across the state of Rajasthan, the festivities peak in Jaipur. If you enjoy kite flying, you should visit the city on or around 14th January of any year.</string>
+
+    <string name="nagaurFairName">Nagaur Fair</string>
+    <string name="nagaurFairDate">1 Feb - 4 Feb</string>
+    <string name="nagaurFairDescription">The Nagaur Fair is the second biggest fair in India. Held every year between the months of January and February, it is popularly known as the Cattle Fair of Nagaur as this is where owners gather to trade animals. Approximately 70,000 bullocks, camels and horses are traded every year at this fair. The animals are lavishly decorated and even their owners dress up with colourful turbans and long moustaches. Besides cattle, sheep, horses and even spices are traded. Other attractions include the Mirchi Bazaar (largest red chilli market of India), sale of wooden items, iron-crafts and camel leather accessories. Several sports are also held during the fair. These include tug-of-war, camel races and bullock races. Nagaur fair is also famous for its jugglers, puppeteers, storytellers, etc.</string>
+
+    <string name="brajHoliName">Braj Holi</string>
+    <string name="brajHoliDate">7 Mar - 8 Mar</string>
+    <string name="brajHoliDescription">The Braj festival in Rajasthan is held every year for two days in the Shukla Paksha of the Phalgun month, a few days prior to Holi. This festival is dedicated to Lord Krishna who is believed to have spent a considerable amount of time in a region called Braj in Rajasthan. This festival not only replicates the spirit of Holi but also impersonates the timeless love of Radha and Krishna. The highlight of this festival is the Raslila dance performed with great zest and unity. The entire town is painted and no one is spared from being splashed with colours. The festival is celebrated with great pomp and ceremony in Deeg, Kaman and Bharatpur in the Bharatpur District.</string>
+
+    <string name="dussehraName">Dussehra</string>
+    <string name="dussehraDate">15 Oct - 17 Oct</string>
+    <string name="dussehraDescription">Dussehra is a Hindu festival celebrated all over the country. As the name suggests, it is the ‘Tenth Day’ of the fierce battle fought; when Lord Rama killed King Ravana. This holy day marks the victory of good over evil. The Dussehra Festival of Kota is quite a unique experience for both, the residents and tourists. Villagers dress themselves in colourful traditional wear and join long processions to offer their prayers to Lord Rama.</string>
+
+    <string name="alwarCityPalaceName">Alwar City Palace</string>
+    <string name="alwarCityPalaceDescription">Built in 1793 AD by Raja Bakhtawar Singh, the City Palace is an amazing mélange of the Rajputana and Islamic styles of architecture. The highlight of this palace are graceful marble pavilions set on lotus flower bases in the central courtyard. The palace that once belonged to the Maharaja has been converted into the District Collectorate. Its grand halls and chambers now house government offices.</string>
+
+    <string name="amberPalaceName">Amber Palace</string>
+    <string name="amberPalaceDescription">Amber, located about 11 kilometres from Jaipur, sits amidst picturesque and rugged hills. It incorporates both Rajput and Mughal architecture. Constructed by Raja Man Singh I in the late 16th century and completed by Mirja Raja Jai Singh, the fort is made of red sandstone and white marble.</string>
+
+    <string name="neemranaFortName">Neemrana Fort</string>
+    <string name="neemranaFortDescription">History says that Neemrana Fort was built by the Yaduvanshis, believed to be the descendants of Lord Krishna. Its story is rife with conquests and defeats and it has passed from the Rajputs to the Mughals and the Jats, before finally coming back to the Rajputs in 1775. Today, it is being run as a famous heritage hotel.</string>
+
+    <string name="jaisalmerFortName">Jaisalmer Fort</string>
+    <string name="jaisalmerFortDecsription">The Jaisalmer Fort also goes by the name Sonar Quila (Golden Fort) as it rises from the desert itself and seems to become one with the golden hues of the sand. The setting sun adds its own magic and shrouds the fort with mystique. The fort is constructed in the classic style of the royals by local craftsmen. This fort is a world heritage site and forms an important plot point in one of Satyajit Ray\’s famous Feluda stories and corresponding movie, Sonar Kela (The Golden Fortress).</string>
+
+    <string name="lakePalaceName">Lake Palace</string>
+    <string name="lakePalaceDescription">Now a hotel, The Lake Palace was originally called Jag Niwas Palace and served as a summer palace. Built between 1743 and 1746 on the island near Jagmandir Palace in Lake Pichola, the palace, which faces east, is a wondrous sight to behold. The walls made of black and white marbles are adorned by semi-precious stones and ornamented niches. Gardens, fountains, pillared terraces and columns line its courtyards.</string>
+
+    <string name="patwonKiHaveliName">Patwon Ki Haveli</string>
+    <string name="patwonKiHaveliDescription">Among the largest and the most elaborately carved havelis in Jaisalmer, this five-storey structure sits proudly in a narrow street. While the haveli has lost some of its early glory, a few paintings and mirror work art can still be seen on the inside walls.</string>
+
+    <string name="ranisarPadamsarName">Ranisar Padamsar</string>
+    <string name="ranisarPadamsarDescription">Located near the Fateh Pole in Mehrangarh, the Ranisar and Padmasar are adjacent lakes that were constructed in the year 1459. Ranisar Lake was built on orders of Queen Jasmade Hadi, Rao Jodha\'s wife while Padmasar Lake was ordered by Queen Padmini of Rao Ganga, daughter of Rana Sanga of Mewar.</string>
+
+    <string name="gagronFortName">Gagron Fort</string>
+    <string name="gagronFortDescription">Gagron Fort is a fine example of a hill and water fort. It is one of the six hill forts of Rajasthan to be a part of the UNESCO World Heritage Site list. Surrounded by the tranquil waters of the Ahu, Kali and Sindh rivers on three sides, the fort is indeed a sight to behold. A beautiful mausoleum of Sufi saint Mitheshah just outside the fort is the venue for an annual colourful fair held during the month of Moharram.</string>
+</resources>
+

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/about_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            style="@style/aboutImages"
+            android:layout_height="215dp"
+            android:src="@drawable/aboutusimage" />
+
+        <TextView
+            style="@style/name"
+            android:text="@string/aboutUs" />
+
+        <View style="@style/view" />
+
+        <TextView
+            style="@style/description"
+            android:text="@string/aboutUsDescription" />
+
+        <View style="@style/view" />
+
+        <ImageView
+            style="@style/aboutImages"
+            android:layout_height="100dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/artsandindustries" />
+
+        <TextView
+            style="@style/name"
+            android:text="@string/artsAndIndustiresName" />
+
+        <View style="@style/view" />
+
+        <TextView
+            style="@style/description"
+            android:text="@string/artsAndIndustriesDescription" />
+
+        <View style="@style/view" />
+
+        <ImageView
+            style="@style/aboutImages"
+            android:layout_height="100dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/rythemandresonance" />
+
+        <TextView
+            style="@style/name"
+            android:text="@string/rhythmAndResoanceName" />
+
+        <View style="@style/view" />
+
+        <TextView
+            style="@style/description"
+            android:text="@string/rhythmAndResonanceDescription" />
+
+        <View style="@style/view" />
+
+        <ImageView
+            style="@style/aboutImages"
+            android:layout_height="150dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/thearchitecture" />
+
+        <TextView
+            style="@style/name"
+            android:text="@string/theArchitectureName" />
+
+        <View style="@style/view" />
+
+        <TextView
+            style="@style/description"
+            android:text="@string/theArchitectureDescription" />
+
+        <View style="@style/view" />
+
+        <ImageView
+            style="@style/aboutImages"
+            android:layout_height="260dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/thepeople" />
+
+        <TextView
+            style="@style/name"
+            android:text="@string/thePeopleName" />
+
+        <View style="@style/view" />
+
+        <TextView
+            style="@style/description"
+            android:text="@string/thePeopleDescription" />
+
+        <View style="@style/view" />
+
+        <ImageView
+            style="@style/aboutImages"
+            android:layout_height="115dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/thefood" />
+
+        <TextView
+            style="@style/name"
+            android:text="@string/theFoodName" />
+
+        <View style="@style/view" />
+
+        <TextView
+            style="@style/description"
+            android:text="@string/theFoodDescription" />
+
+        <View
+            style="@style/view"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+
+</ScrollView>
